@@ -1,0 +1,1 @@
+LaTeX-based academic assignment for ICT 2207 (Object Oriented Pattern Design - Java) at MBSTU, covering abstract classes vs interfaces, static vs non-static members, constructors, method overloading/overriding, and polymorphism with Java code examples.
